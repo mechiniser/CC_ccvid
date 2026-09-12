@@ -1,0 +1,67 @@
+{
+  "format": "ccvid-movie",
+  "version": 1,
+  "name": "bird",
+  "source": "bird.mp4",
+  "generated": "2026-09-12 17:04:34",
+  "width": 57,
+  "height": 24,
+  "fps": 10,
+  "compression": true,
+  "audio": true,
+  "audio_rate": 16000,
+  "seconds": 87.2,
+  "bytes": 2087777,
+  "part_count": 6,
+  "path_url": "bird",
+  "parts": [
+    {
+      "file": "part_0001.ccvid",
+      "bytes": 392562,
+      "frames": 194,
+      "seconds": 19.4,
+      "audio_bytes": 38537,
+      "sha1": "5199d50d7096cf6a33334e6d4201f89440d8d3a1"
+    },
+    {
+      "file": "part_0002.ccvid",
+      "bytes": 394117,
+      "frames": 148,
+      "seconds": 14.8,
+      "audio_bytes": 29670,
+      "sha1": "0c192c9614b54958892d089783068a404c63fa09"
+    },
+    {
+      "file": "part_0003.ccvid",
+      "bytes": 394623,
+      "frames": 183,
+      "seconds": 18.3,
+      "audio_bytes": 36679,
+      "sha1": "27e4fd2b36e1ad2c48264d9f27e4174a1a1cbc21"
+    },
+    {
+      "file": "part_0004.ccvid",
+      "bytes": 395616,
+      "frames": 161,
+      "seconds": 16.1,
+      "audio_bytes": 32270,
+      "sha1": "838e4e86bf571ba72f775191e58fee3d337739b3"
+    },
+    {
+      "file": "part_0005.ccvid",
+      "bytes": 394183,
+      "frames": 137,
+      "seconds": 13.7,
+      "audio_bytes": 27470,
+      "sha1": "0f9f31f1c69c50fb3da6b3542260583429df90c4"
+    },
+    {
+      "file": "part_0006.ccvid",
+      "bytes": 116676,
+      "frames": 49,
+      "seconds": 4.9,
+      "audio_bytes": 8723,
+      "sha1": "5b5b83fc6ef37564d0e51d8454daf50347787e58"
+    }
+  ]
+}
