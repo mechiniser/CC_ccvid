@@ -1,0 +1,699 @@
+{
+  "format": "ccvid-movie",
+  "version": 1,
+  "name": "cheems",
+  "source": "cheems.mp4",
+  "generated": "2026-09-14 13:36:23",
+  "width": 79,
+  "height": 38,
+  "fps": 8,
+  "compression": true,
+  "audio": true,
+  "audio_rate": 12000,
+  "seconds": 1280.625,
+  "bytes": 33136984,
+  "part_count": 85,
+  "path_url": "cheems",
+  "parts": [
+    {
+      "file": "part_0001.ccvid",
+      "bytes": 396499,
+      "frames": 102,
+      "seconds": 12.75,
+      "audio_bytes": 18775,
+      "sha1": "de25eb492a56e341b6777dd3cc515ee91431c196"
+    },
+    {
+      "file": "part_0002.ccvid",
+      "bytes": 396288,
+      "frames": 125,
+      "seconds": 15.625,
+      "audio_bytes": 23508,
+      "sha1": "8a8d01010a4fca2f1968465d908b24415638cadc"
+    },
+    {
+      "file": "part_0003.ccvid",
+      "bytes": 393888,
+      "frames": 94,
+      "seconds": 11.75,
+      "audio_bytes": 15202,
+      "sha1": "3823b21ae93b40f0fbc6a72ec9a6c7a3f1ff0f56"
+    },
+    {
+      "file": "part_0004.ccvid",
+      "bytes": 391353,
+      "frames": 140,
+      "seconds": 17.5,
+      "audio_bytes": 23320,
+      "sha1": "1f0e2e35c1c17dd2c26e6cf7fa1ad6ee1475f75e"
+    },
+    {
+      "file": "part_0005.ccvid",
+      "bytes": 386372,
+      "frames": 152,
+      "seconds": 19.0,
+      "audio_bytes": 22267,
+      "sha1": "1a54a64cac748b88d05b976e14f5de837e24830a"
+    },
+    {
+      "file": "part_0006.ccvid",
+      "bytes": 395706,
+      "frames": 153,
+      "seconds": 19.125,
+      "audio_bytes": 28776,
+      "sha1": "0d66dd310e35698599b0ab985dd5bff78a135d06"
+    },
+    {
+      "file": "part_0007.ccvid",
+      "bytes": 394986,
+      "frames": 171,
+      "seconds": 21.375,
+      "audio_bytes": 32151,
+      "sha1": "8a6682009504798dbcefa1ca6f3bc2aa089b0a36"
+    },
+    {
+      "file": "part_0008.ccvid",
+      "bytes": 389992,
+      "frames": 148,
+      "seconds": 18.5,
+      "audio_bytes": 23156,
+      "sha1": "257f9ede3dfa409bfc918ea4c8919c4fd50bc103"
+    },
+    {
+      "file": "part_0009.ccvid",
+      "bytes": 392696,
+      "frames": 115,
+      "seconds": 14.375,
+      "audio_bytes": 17799,
+      "sha1": "a6fc9853db36b72ddc9e8dd79ab601c800bddefc"
+    },
+    {
+      "file": "part_0010.ccvid",
+      "bytes": 394997,
+      "frames": 115,
+      "seconds": 14.375,
+      "audio_bytes": 21102,
+      "sha1": "8fc0b1f92107416470908f83ba4889223d43bd3c"
+    },
+    {
+      "file": "part_0011.ccvid",
+      "bytes": 395377,
+      "frames": 138,
+      "seconds": 17.25,
+      "audio_bytes": 25954,
+      "sha1": "0e2f2a16f31313fe4b19a30a4d3a071d01d96db9"
+    },
+    {
+      "file": "part_0012.ccvid",
+      "bytes": 393162,
+      "frames": 132,
+      "seconds": 16.5,
+      "audio_bytes": 24829,
+      "sha1": "bdf09aeff50b558d5b33b86fe2f730db08a07ae6"
+    },
+    {
+      "file": "part_0013.ccvid",
+      "bytes": 395889,
+      "frames": 123,
+      "seconds": 15.375,
+      "audio_bytes": 23133,
+      "sha1": "d4bd7d52b926df414518036af2bb8b257a2b702f"
+    },
+    {
+      "file": "part_0014.ccvid",
+      "bytes": 394671,
+      "frames": 156,
+      "seconds": 19.5,
+      "audio_bytes": 29338,
+      "sha1": "a8706e54e9c84102342d4fedd3d2bf491e7bd4e0"
+    },
+    {
+      "file": "part_0015.ccvid",
+      "bytes": 392794,
+      "frames": 108,
+      "seconds": 13.5,
+      "audio_bytes": 20311,
+      "sha1": "9a43ec37b1eec2a2af30c20438f85f7d2558feb6"
+    },
+    {
+      "file": "part_0016.ccvid",
+      "bytes": 385266,
+      "frames": 130,
+      "seconds": 16.25,
+      "audio_bytes": 19738,
+      "sha1": "887ba2ec80bd1a535a3dda4e042672701ee7bb98"
+    },
+    {
+      "file": "part_0017.ccvid",
+      "bytes": 378989,
+      "frames": 167,
+      "seconds": 20.875,
+      "audio_bytes": 15942,
+      "sha1": "052ea2e33af2fe27b6c84f298a08d7fd2e4b5b4a"
+    },
+    {
+      "file": "part_0018.ccvid",
+      "bytes": 378652,
+      "frames": 163,
+      "seconds": 20.375,
+      "audio_bytes": 14172,
+      "sha1": "32ca8d4170a385190b549aff3538617f6305e551"
+    },
+    {
+      "file": "part_0019.ccvid",
+      "bytes": 377607,
+      "frames": 155,
+      "seconds": 19.375,
+      "audio_bytes": 11891,
+      "sha1": "391851a8274f9148bd83fae36eb60dd3e6e83ff1"
+    },
+    {
+      "file": "part_0020.ccvid",
+      "bytes": 386940,
+      "frames": 119,
+      "seconds": 14.875,
+      "audio_bytes": 13249,
+      "sha1": "8dcf3008586521900fe18a0ab7cb8526d60bd753"
+    },
+    {
+      "file": "part_0021.ccvid",
+      "bytes": 385968,
+      "frames": 132,
+      "seconds": 16.5,
+      "audio_bytes": 18489,
+      "sha1": "4fa960a8b52b0ed49e6d2b39f3862369e505a67e"
+    },
+    {
+      "file": "part_0022.ccvid",
+      "bytes": 392988,
+      "frames": 151,
+      "seconds": 18.875,
+      "audio_bytes": 26388,
+      "sha1": "40f3aa8a7fa1fb45829248de737e259994c65ae3"
+    },
+    {
+      "file": "part_0023.ccvid",
+      "bytes": 392405,
+      "frames": 154,
+      "seconds": 19.25,
+      "audio_bytes": 26834,
+      "sha1": "865c3c34cff4d0a352033a1d27d5075c87d87e99"
+    },
+    {
+      "file": "part_0024.ccvid",
+      "bytes": 394608,
+      "frames": 129,
+      "seconds": 16.125,
+      "audio_bytes": 24258,
+      "sha1": "5275755b5fdb0045a4619684ca9b50bc050f64ac"
+    },
+    {
+      "file": "part_0025.ccvid",
+      "bytes": 376315,
+      "frames": 149,
+      "seconds": 18.625,
+      "audio_bytes": 12725,
+      "sha1": "0ece7238e4b85da5bf5daeb73324e85ccd7dfdaa"
+    },
+    {
+      "file": "part_0026.ccvid",
+      "bytes": 392570,
+      "frames": 131,
+      "seconds": 16.375,
+      "audio_bytes": 21990,
+      "sha1": "ab4baf053e29a95106295d15efb3d497bba20a59"
+    },
+    {
+      "file": "part_0027.ccvid",
+      "bytes": 391900,
+      "frames": 118,
+      "seconds": 14.75,
+      "audio_bytes": 19801,
+      "sha1": "d3ce4284a4744020abc09372154f38ebaabaf9d5"
+    },
+    {
+      "file": "part_0028.ccvid",
+      "bytes": 393117,
+      "frames": 137,
+      "seconds": 17.125,
+      "audio_bytes": 25767,
+      "sha1": "76d7cc2d854b6523a602c6bee9c19d1d5bafc5e8"
+    },
+    {
+      "file": "part_0029.ccvid",
+      "bytes": 390429,
+      "frames": 120,
+      "seconds": 15.0,
+      "audio_bytes": 22570,
+      "sha1": "7e3681e02933f3936506b3bf2f1a84220f6cfc46"
+    },
+    {
+      "file": "part_0030.ccvid",
+      "bytes": 395252,
+      "frames": 106,
+      "seconds": 13.25,
+      "audio_bytes": 19936,
+      "sha1": "61cf31c2900b61f2bdc267603813c94c38f47290"
+    },
+    {
+      "file": "part_0031.ccvid",
+      "bytes": 395174,
+      "frames": 150,
+      "seconds": 18.75,
+      "audio_bytes": 28204,
+      "sha1": "5a0ff3fb0532c856996d44ec9b6601bf7f0a8c54"
+    },
+    {
+      "file": "part_0032.ccvid",
+      "bytes": 391888,
+      "frames": 101,
+      "seconds": 12.625,
+      "audio_bytes": 18999,
+      "sha1": "cabb386c1513cf9b7cb0b6e0223c85731acd6459"
+    },
+    {
+      "file": "part_0033.ccvid",
+      "bytes": 396379,
+      "frames": 113,
+      "seconds": 14.125,
+      "audio_bytes": 21258,
+      "sha1": "8a4538491c32b472c3570eea136639734688a380"
+    },
+    {
+      "file": "part_0034.ccvid",
+      "bytes": 378506,
+      "frames": 117,
+      "seconds": 14.625,
+      "audio_bytes": 7309,
+      "sha1": "69533656b91a4366e7b9e6ea591bc5d138d9cb28"
+    },
+    {
+      "file": "part_0035.ccvid",
+      "bytes": 387973,
+      "frames": 135,
+      "seconds": 16.875,
+      "audio_bytes": 22470,
+      "sha1": "08c1bae7c337706e5a534c8bd5a1bfa5ff5fda01"
+    },
+    {
+      "file": "part_0036.ccvid",
+      "bytes": 394208,
+      "frames": 101,
+      "seconds": 12.625,
+      "audio_bytes": 18999,
+      "sha1": "660d7e178f518ef85f6ff887df6c556f6acf2e6a"
+    },
+    {
+      "file": "part_0037.ccvid",
+      "bytes": 396246,
+      "frames": 92,
+      "seconds": 11.5,
+      "audio_bytes": 17311,
+      "sha1": "c9cab87251b6cb0eff64d4b2db6f31c315ce5e7f"
+    },
+    {
+      "file": "part_0038.ccvid",
+      "bytes": 391047,
+      "frames": 120,
+      "seconds": 15.0,
+      "audio_bytes": 22570,
+      "sha1": "67b658681d7a68f368735c891f1018460ec8d05a"
+    },
+    {
+      "file": "part_0039.ccvid",
+      "bytes": 389123,
+      "frames": 82,
+      "seconds": 10.25,
+      "audio_bytes": 15427,
+      "sha1": "67bc87f699fb8382a8e585fdb27f543e34a9efc7"
+    },
+    {
+      "file": "part_0040.ccvid",
+      "bytes": 395587,
+      "frames": 104,
+      "seconds": 13.0,
+      "audio_bytes": 19561,
+      "sha1": "ba96324ad83f4dbe5080ae857926e2c9c905ac41"
+    },
+    {
+      "file": "part_0041.ccvid",
+      "bytes": 393449,
+      "frames": 134,
+      "seconds": 16.75,
+      "audio_bytes": 25204,
+      "sha1": "2db659b20ab1e46f0d41a070a6066c60a5541f09"
+    },
+    {
+      "file": "part_0042.ccvid",
+      "bytes": 394053,
+      "frames": 97,
+      "seconds": 12.125,
+      "audio_bytes": 18249,
+      "sha1": "bf96dcc8ffb0b2711b6e87e5b83db842f3c6cd76"
+    },
+    {
+      "file": "part_0043.ccvid",
+      "bytes": 396658,
+      "frames": 96,
+      "seconds": 12.0,
+      "audio_bytes": 18061,
+      "sha1": "05b99b7d7b6e200174f7754b5644cac3f20233c1"
+    },
+    {
+      "file": "part_0044.ccvid",
+      "bytes": 387873,
+      "frames": 96,
+      "seconds": 12.0,
+      "audio_bytes": 11957,
+      "sha1": "65c3f49b94c1871bf8fc5ec12daa537d6bb0703f"
+    },
+    {
+      "file": "part_0045.ccvid",
+      "bytes": 388372,
+      "frames": 125,
+      "seconds": 15.625,
+      "audio_bytes": 18020,
+      "sha1": "af7df9f8f2ee68418249d961fb307edc3a5d1420"
+    },
+    {
+      "file": "part_0046.ccvid",
+      "bytes": 381141,
+      "frames": 137,
+      "seconds": 17.125,
+      "audio_bytes": 13250,
+      "sha1": "92d5c9d7e3ba79082834d678b7c429542527aa72"
+    },
+    {
+      "file": "part_0047.ccvid",
+      "bytes": 395455,
+      "frames": 142,
+      "seconds": 17.75,
+      "audio_bytes": 26704,
+      "sha1": "1aa16509de244d1811046f3c16f444dbe455cef5"
+    },
+    {
+      "file": "part_0048.ccvid",
+      "bytes": 394769,
+      "frames": 141,
+      "seconds": 17.625,
+      "audio_bytes": 26517,
+      "sha1": "c2658232ce586c621be7df89b55e17fc36867700"
+    },
+    {
+      "file": "part_0049.ccvid",
+      "bytes": 394237,
+      "frames": 137,
+      "seconds": 17.125,
+      "audio_bytes": 25767,
+      "sha1": "00ca145a25c687cba426e0a195b5071ce69807ba"
+    },
+    {
+      "file": "part_0050.ccvid",
+      "bytes": 396138,
+      "frames": 132,
+      "seconds": 16.5,
+      "audio_bytes": 24829,
+      "sha1": "f56d0ed1c8f728d179b334d0ea3451e435a15a62"
+    },
+    {
+      "file": "part_0051.ccvid",
+      "bytes": 391448,
+      "frames": 102,
+      "seconds": 12.75,
+      "audio_bytes": 16279,
+      "sha1": "7c27c2a0ee830046c21e61fab55ba9fc311a8dfd"
+    },
+    {
+      "file": "part_0052.ccvid",
+      "bytes": 386737,
+      "frames": 122,
+      "seconds": 15.25,
+      "audio_bytes": 15011,
+      "sha1": "6bc6038b1185760464834be712829066ece9a0b8"
+    },
+    {
+      "file": "part_0053.ccvid",
+      "bytes": 396028,
+      "frames": 111,
+      "seconds": 13.875,
+      "audio_bytes": 20883,
+      "sha1": "261fc551714a8afef6bb571528ba425474922fb7"
+    },
+    {
+      "file": "part_0054.ccvid",
+      "bytes": 394761,
+      "frames": 111,
+      "seconds": 13.875,
+      "audio_bytes": 20883,
+      "sha1": "af707178207510f8bd78d3920662027744dfe728"
+    },
+    {
+      "file": "part_0055.ccvid",
+      "bytes": 393999,
+      "frames": 105,
+      "seconds": 13.125,
+      "audio_bytes": 19749,
+      "sha1": "49bc6a24bd211b504c55f6824c4f8b99afd110c6"
+    },
+    {
+      "file": "part_0056.ccvid",
+      "bytes": 394000,
+      "frames": 100,
+      "seconds": 12.5,
+      "audio_bytes": 18811,
+      "sha1": "be7f833506f14f35c19e0026854fd65f3cd7cb5b"
+    },
+    {
+      "file": "part_0057.ccvid",
+      "bytes": 394523,
+      "frames": 115,
+      "seconds": 14.375,
+      "audio_bytes": 21633,
+      "sha1": "0e3243954dba8d4529d5132ad46232003b4a15c9"
+    },
+    {
+      "file": "part_0058.ccvid",
+      "bytes": 391977,
+      "frames": 121,
+      "seconds": 15.125,
+      "audio_bytes": 19513,
+      "sha1": "f9dc8271318a3f74bffad495e2570b65391283fc"
+    },
+    {
+      "file": "part_0059.ccvid",
+      "bytes": 394285,
+      "frames": 110,
+      "seconds": 13.75,
+      "audio_bytes": 18915,
+      "sha1": "b1de0379ce1b2090043cb90d6463d0b8387d21da"
+    },
+    {
+      "file": "part_0060.ccvid",
+      "bytes": 393823,
+      "frames": 97,
+      "seconds": 12.125,
+      "audio_bytes": 18249,
+      "sha1": "5b2152050183abbc9be2b6537a3fa03da1819dff"
+    },
+    {
+      "file": "part_0061.ccvid",
+      "bytes": 395128,
+      "frames": 131,
+      "seconds": 16.375,
+      "audio_bytes": 24633,
+      "sha1": "ad6c45c6bae25321c3ff36a759c5403560786e90"
+    },
+    {
+      "file": "part_0062.ccvid",
+      "bytes": 393400,
+      "frames": 88,
+      "seconds": 11.0,
+      "audio_bytes": 16561,
+      "sha1": "bce90fc211908b939581587c8b0d046e08361919"
+    },
+    {
+      "file": "part_0063.ccvid",
+      "bytes": 396845,
+      "frames": 97,
+      "seconds": 12.125,
+      "audio_bytes": 18249,
+      "sha1": "6dbbe5cb71b5b8dd83955a6cb1fca05463cb3613"
+    },
+    {
+      "file": "part_0064.ccvid",
+      "bytes": 396216,
+      "frames": 99,
+      "seconds": 12.375,
+      "audio_bytes": 18624,
+      "sha1": "4ffc7fff810bb3821176ba9ae7eb87d59d51f383"
+    },
+    {
+      "file": "part_0065.ccvid",
+      "bytes": 392203,
+      "frames": 109,
+      "seconds": 13.625,
+      "audio_bytes": 20499,
+      "sha1": "88e67f9f23ec407d48afb5ac28b25ccb15621c85"
+    },
+    {
+      "file": "part_0066.ccvid",
+      "bytes": 394705,
+      "frames": 98,
+      "seconds": 12.25,
+      "audio_bytes": 18436,
+      "sha1": "bd4e4e56d6f2fb8c6dd02eeb3bc341412ed13b67"
+    },
+    {
+      "file": "part_0067.ccvid",
+      "bytes": 396041,
+      "frames": 103,
+      "seconds": 12.875,
+      "audio_bytes": 19374,
+      "sha1": "4abf8d60573b4f5770aa3cb4ca055ba5e3e43184"
+    },
+    {
+      "file": "part_0068.ccvid",
+      "bytes": 381436,
+      "frames": 169,
+      "seconds": 21.125,
+      "audio_bytes": 18364,
+      "sha1": "285fd6e8f52a503983f13a349e57aeb61bc8380c"
+    },
+    {
+      "file": "part_0069.ccvid",
+      "bytes": 383341,
+      "frames": 103,
+      "seconds": 12.875,
+      "audio_bytes": 8707,
+      "sha1": "4e01b364b2d2b090836f544f905a7f315db4165a"
+    },
+    {
+      "file": "part_0070.ccvid",
+      "bytes": 384344,
+      "frames": 106,
+      "seconds": 13.25,
+      "audio_bytes": 8315,
+      "sha1": "383350949586a4aa3e07da5096fccb680e251542"
+    },
+    {
+      "file": "part_0071.ccvid",
+      "bytes": 394726,
+      "frames": 126,
+      "seconds": 15.75,
+      "audio_bytes": 23695,
+      "sha1": "f6b09aa0323973240ceef300d2c252fe9ccddad6"
+    },
+    {
+      "file": "part_0072.ccvid",
+      "bytes": 395898,
+      "frames": 86,
+      "seconds": 10.75,
+      "audio_bytes": 16177,
+      "sha1": "f3d70346ac9161b0c107eabf5ec6e9c47cd23dca"
+    },
+    {
+      "file": "part_0073.ccvid",
+      "bytes": 393886,
+      "frames": 105,
+      "seconds": 13.125,
+      "audio_bytes": 19749,
+      "sha1": "85212c767d5cb62a71a78f10079b1ce4f1d734c7"
+    },
+    {
+      "file": "part_0074.ccvid",
+      "bytes": 392344,
+      "frames": 93,
+      "seconds": 11.625,
+      "audio_bytes": 17499,
+      "sha1": "9d31a8b78d01e08b3e664614205b423d27952313"
+    },
+    {
+      "file": "part_0075.ccvid",
+      "bytes": 395134,
+      "frames": 92,
+      "seconds": 11.5,
+      "audio_bytes": 17050,
+      "sha1": "fb4aea3d6c85819aa4c6e4067967ee555cc702fa"
+    },
+    {
+      "file": "part_0076.ccvid",
+      "bytes": 394759,
+      "frames": 97,
+      "seconds": 12.125,
+      "audio_bytes": 18249,
+      "sha1": "33a076f2cab0563cbb34c61bdf142b9aae59ea4f"
+    },
+    {
+      "file": "part_0077.ccvid",
+      "bytes": 395060,
+      "frames": 98,
+      "seconds": 12.25,
+      "audio_bytes": 18436,
+      "sha1": "73fe0baf683bd469613762b51be736f0d32cc0b9"
+    },
+    {
+      "file": "part_0078.ccvid",
+      "bytes": 395678,
+      "frames": 103,
+      "seconds": 12.875,
+      "audio_bytes": 19374,
+      "sha1": "1b2577acb091c6411c94fa600b467aab7dbc800b"
+    },
+    {
+      "file": "part_0079.ccvid",
+      "bytes": 395860,
+      "frames": 106,
+      "seconds": 13.25,
+      "audio_bytes": 19936,
+      "sha1": "00c8f815fff2b9121891448e701e654e734bd6ed"
+    },
+    {
+      "file": "part_0080.ccvid",
+      "bytes": 395216,
+      "frames": 111,
+      "seconds": 13.875,
+      "audio_bytes": 20883,
+      "sha1": "093d46d5c0d620635991bbc66354fb3246e121f7"
+    },
+    {
+      "file": "part_0081.ccvid",
+      "bytes": 395188,
+      "frames": 138,
+      "seconds": 17.25,
+      "audio_bytes": 25954,
+      "sha1": "767d3c264a740d378cab42167e2b2f187b233ba7"
+    },
+    {
+      "file": "part_0082.ccvid",
+      "bytes": 395883,
+      "frames": 89,
+      "seconds": 11.125,
+      "audio_bytes": 16749,
+      "sha1": "1ae615b7fbc77afd8dc3760b9c94a0dedb173108"
+    },
+    {
+      "file": "part_0083.ccvid",
+      "bytes": 395543,
+      "frames": 131,
+      "seconds": 16.375,
+      "audio_bytes": 24633,
+      "sha1": "d6da042d1aad1aec836e95524de76d34214caba6"
+    },
+    {
+      "file": "part_0084.ccvid",
+      "bytes": 387690,
+      "frames": 203,
+      "seconds": 25.375,
+      "audio_bytes": 32045,
+      "sha1": "c070186fb80cfa40537551e40da01bbd089b4a22"
+    },
+    {
+      "file": "part_0085.ccvid",
+      "bytes": 212927,
+      "frames": 85,
+      "seconds": 10.625,
+      "audio_bytes": 11590,
+      "sha1": "287da413e09851237487e0d7b0bde00bc8d24f3d"
+    }
+  ]
+}
