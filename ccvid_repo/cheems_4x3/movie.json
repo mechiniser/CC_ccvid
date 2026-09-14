@@ -1,7 +1,7 @@
 {
   "format": "ccvid-movie",
   "version": 1,
-  "name": "cheems",
+  "name": "cheems_4x3",
   "source": "cheems.mp4",
   "generated": "2026-09-14 13:36:23",
   "width": 79,
@@ -13,7 +13,7 @@
   "seconds": 1280.625,
   "bytes": 33136984,
   "part_count": 85,
-  "path_url": "cheems",
+  "path_url": "cheems_4x3",
   "parts": [
     {
       "file": "part_0001.ccvid",
