@@ -458,8 +458,8 @@
     },
     {
       "id": "cheems_4x3",
-      "name": "cheems",
-      "path_url": "cheems",
+      "name": "cheems_4x3",
+      "path_url": "cheems_4x3",
       "width": 79,
       "height": 38,
       "fps": 8,
